@@ -22,7 +22,7 @@ Here's the initial draft of structure
 
 0. Azure Management
 1. Compute
-[[Link Text|compute.md]]
+[[Link Text][compute.md]]
 2. Networking
 3. Storage
 4. Web
