@@ -10,11 +10,11 @@ We are still fine tuning the formatting of this git repository, all pull request
 
 Here's the initial draft of structure
 1. Parent Technology
-  * Child Technology
+  a. Child Technology
     * Pro
     * Cons
     * Gotchas
     * Things you should know
-   * Child Technology 2
-   * Child Technology 3
+   b. Child Technology 2
+   c. Child Technology 3
 2. Parent Technology
