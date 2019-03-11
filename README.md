@@ -18,3 +18,29 @@ Here's the initial draft of structure
   * ### Child Technology 2
   * ### Child Technology 3
 2. ## Parent Technology
+
+**Table of Content**
+
+0. Azure Management
+1. Compute
+2. Networking
+3. Storage
+4. Web
+5. Mobile
+6. Containers
+7. Databases / Data Store
+8. Analytics
+9. AI + Machine Learning
+10. Internet of Things
+11. Mixed Reality
+12. Integration
+13. Security
+14. Identity
+15. Devops / Developer tools
+16. Management Tools
+17. Software as a Servuce
+18. Block Chain
+19. Licensing
+20. Code Samples
+21. Azure Hands on Labs
+22. Reference Guides
