@@ -11,9 +11,9 @@ We are still fine tuning the formatting of this git repository, all pull request
 Here's the initial draft of structure
 1. ## Parent Technology
   * ### Child Technology
-    * Pro (Updated as of DD MM YYYY)
-    * Cons (Updated as of DD MM YYYY)
-    * Gotchas (Updated as of DD MM YYYY)
+    * Pro *(Updated as of DD MM YYYY)*
+    * Cons *(Updated as of DD MM YYYY)*
+    * Gotchas *(Updated as of DD MM YYYY)*
     * Things you should know (Updated as of DD MM YYYY)
   * ### Child Technology 2
   * ### Child Technology 3
