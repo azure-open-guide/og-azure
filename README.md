@@ -9,7 +9,7 @@ However, due to the frequency of updates and releases on Azure, do refer to the 
 We are still fine tuning the formatting of this git repository, all pull requests and suggestions are welcome.
 
 Here's the initial draft of structure
-*Parent Technology
+1. Parent Technology
   *Child Technology
     *Pro
     *Cons
@@ -17,4 +17,4 @@ Here's the initial draft of structure
     *Things you should know
    *Child Technology 2
    *Child Technology 3
- *Parent Technology
+2. Parent Technology
